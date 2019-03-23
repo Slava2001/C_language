@@ -1,0 +1,4 @@
+﻿  main.c
+j:\infa\9lab_kaplya.v.v_ns\9lab_kaplya.v.v_ns\main.c(111): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[256]"
+j:\infa\9lab_kaplya.v.v_ns\9lab_kaplya.v.v_ns\main.c(111): warning C4024: CoutInstr: различные типы для формального и фактического параметров 1
+  9lab_Kaplya.V.V_ns.vcxproj -> J:\infa\9lab_Kaplya.V.V_ns\Debug\9lab_Kaplya.V.V_ns.exe

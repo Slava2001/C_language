@@ -1,0 +1,8 @@
+﻿Сборка начата 13.03.2019 8:34:03.
+     1>Проект "D:\infa\9lab_Kaplya.V.V_ns\9lab_Kaplya.V.V_ns\9lab_Kaplya.V.V_ns.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.Cpp.Platform.targets(64,5): error MSB8020: The build tools for v141 (Platform Toolset = 'v141') cannot be found. To build using the v141 build tools, please install v141 build tools.  Alternatively, you may upgrade to the current Visual Studio tools by selecting the Project menu or right-click the solution, and then selecting "Upgrade Solution...".
+     1>Сборка проекта "D:\infa\9lab_Kaplya.V.V_ns\9lab_Kaplya.V.V_ns\9lab_Kaplya.V.V_ns.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.05
