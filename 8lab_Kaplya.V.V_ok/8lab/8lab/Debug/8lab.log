@@ -1,0 +1,6 @@
+﻿  main.c
+d:\my_works\infa\8lab_kaplya.v.v_ns\8lab\8lab\main.c(23): warning C4477: "scanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "1" имеет тип "unsigned char *"
+  d:\my_works\infa\8lab_kaplya.v.v_ns\8lab\8lab\main.c(23): note: рекомендуется использовать "%hhu" в строке форматирования
+d:\my_works\infa\8lab_kaplya.v.v_ns\8lab\8lab\main.c(216): warning C4142: "contrl_summ": неопасное переопределение типа
+  d:\my_works\infa\8lab_kaplya.v.v_ns\8lab\8lab\main.c(13): note:  см. объявление "contrl_summ"
+  8lab.vcxproj -> D:\my_works\infa\8lab_Kaplya.V.V_ns\8lab\Debug\8lab.exe
