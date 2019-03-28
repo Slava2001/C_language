@@ -49,6 +49,13 @@ int main()
 	PrintAll();
 	printf("\n");
 	system("pause");
+	
+	
+	for(int i=0;i<line_count;i++)
+	free(data[i]);
+	free(data);
+	
+	
 	return 0;
 }
 
@@ -95,7 +102,7 @@ void Delete(int j)
 	
 }
 
-
+//задания со звездочкой
 /////////////////////////////////////////////////////////////////////
 /*#include "stdio.h"
 #include "stdlib.h"
@@ -145,6 +152,11 @@ int main()
 	Delete(5);
 	PrintAll();
 	printf("\n");
+	
+	for(int i=0;i<line_count;i++)
+	free(data[i]);
+	free(data);
+	
 	system("pause");
 	return 0;
 }
@@ -208,23 +220,10 @@ void Delete(int j)
 	data = (char**)realloc(data, sizeof(char*)*(line_count));
 
 }*/
+
+//задания без звездочки
 /////////////////////////////////////////////////////////////////////
-/*
-void Delete(int j) 
-{
-	data[j][0] = 0;
 
-	int vrm = line_count-1;
-	line_count = j;
-
-	for (int i = j; i < vrm; i++)
-		Save(data[i + 1]);
-
-	data = (char**)realloc(data, sizeof(char*)*line_count);
-
-	if (data == NULL) { printf("ERROR!Out of Memory\n"); return; }
-}
-*/
 
 /*
 #include "stdio.h"
@@ -272,7 +271,7 @@ void Save(char* newData)
 	{
 		data[line_count][n] = newData[n];
 		n++;
-		if (n > 99)
+		if (n > 98)
 		{
 			printf("ERROR!Line So long\n");
 			return;
