@@ -1,0 +1,22 @@
+﻿  main.c
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(25): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[9]"
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(25): warning C4024: Save: различные типы для формального и фактического параметров 1
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(26): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[9]"
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(26): warning C4024: Save: различные типы для формального и фактического параметров 1
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(27): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[12]"
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(27): warning C4024: Save: различные типы для формального и фактического параметров 1
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(28): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[11]"
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(28): warning C4024: Save: различные типы для формального и фактического параметров 1
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(29): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[8]"
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(29): warning C4024: Save: различные типы для формального и фактического параметров 1
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(42): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[9]"
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(42): warning C4024: Save: различные типы для формального и фактического параметров 1
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(43): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[9]"
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(43): warning C4024: Save: различные типы для формального и фактического параметров 1
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(44): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[12]"
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(44): warning C4024: Save: различные типы для формального и фактического параметров 1
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(45): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[11]"
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(45): warning C4024: Save: различные типы для формального и фактического параметров 1
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(46): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[8]"
+d:\my_works\infa\domashka\domashka1\domashka1\main.c(46): warning C4024: Save: различные типы для формального и фактического параметров 1
+  domashka1.vcxproj -> D:\my_works\infa\domashka\domashka1\Debug\domashka1.exe
