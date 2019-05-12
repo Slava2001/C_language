@@ -1,0 +1,13 @@
+﻿  main.c
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(60): warning C4133: =: несовместимые типы - из "node *" в "Node *"
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(147): warning C4133: =: несовместимые типы - из "Node *" в "node *"
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(156): warning C4133: =: несовместимые типы - из "Node *" в "node *"
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(176): warning C4133: =: несовместимые типы - из "node *" в "Node *"
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(183): warning C4133: =: несовместимые типы - из "node *" в "Node *"
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(273): warning C4133: =: несовместимые типы - из "node *" в "Node *"
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(324): warning C4133: =: несовместимые типы - из "node *" в "Node *"
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(377): warning C4133: =: несовместимые типы - из "Node *" в "node *"
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(385): warning C4133: =: несовместимые типы - из "node *" в "Node *"
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(388): warning C4133: =: несовместимые типы - из "Node *" в "node *"
+d:\my_works\infa\11lab_kaplya.v.v_ns\11lab_kaplya.v.v_ns\main.c(435): warning C4133: =: несовместимые типы - из "node *" в "Node *"
+  11lab_Kaplya.V.V_ns.vcxproj -> D:\my_works\infa\11lab_Kaplya.V.V_ns\Debug\11lab_Kaplya.V.V_ns.exe
